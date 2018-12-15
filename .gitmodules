@@ -1,0 +1,3 @@
+[submodule "l10n_sv"]
+	path = l10n_sv
+	url = https://github.com/rocketgithub/l10n_sv.git
