@@ -1,3 +1,7 @@
 [submodule "l10n_sv"]
 	path = l10n_sv
 	url = https://github.com/rocketgithub/l10n_sv.git
+[submodule "bolson"]
+	path = bolson
+	url = https://github.com/rocketgithub/bolson.git
+	branch = 11.0
