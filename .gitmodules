@@ -5,3 +5,7 @@
 	path = bolson
 	url = https://github.com/rocketgithub/bolson.git
 	branch = 11.0
+[submodule "conciliacion_bancaria"]
+	path = conciliacion_bancaria
+	url = https://github.com/rocketgithub/conciliacion_bancaria.git
+	branch = 11.0
