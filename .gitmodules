@@ -9,3 +9,6 @@
 	path = conciliacion_bancaria
 	url = https://github.com/rocketgithub/conciliacion_bancaria.git
 	branch = 11.0
+[submodule "caplinpointsv"]
+	path = caplinpointsv
+	url = git@github.com:rocketgithub/caplinpointsv.git
