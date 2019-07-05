@@ -16,3 +16,7 @@
 	path = l10n_gt_extra
 	url = https://github.com/rocketgithub/l10n_gt_extra.git
 	branch = 11.0
+[submodule "importaciones"]
+	path = importaciones
+	url = https://github.com/rocketgithub/importaciones.git
+	branch = 12.0
