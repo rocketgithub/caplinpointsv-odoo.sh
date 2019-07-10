@@ -24,3 +24,7 @@
 	path = rrhh
 	url = https://github.com/rocketgithub/rrhh.git
 	branch = 11.0
+[submodule "kardex"]
+	path = kardex
+	url = https://github.com/rocketgithub/kardex.git
+	branch = 11.0
